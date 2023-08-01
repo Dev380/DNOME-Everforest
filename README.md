@@ -55,7 +55,7 @@ You can inject it using [Crycord](https://github.com/GeopJr/Crycord), [Beauitful
 There are 3 options for obtaining the theme:
 
 1. [DNOME-latest.css](./DNOME-latest.css), which imports the latest compiled version.
-2. [dist/DNOME.css](https://github.com/GeopJr/DNOME/blob/dist/DNOME.css), which is the latest compiled version.
+2. [dist/DNOME.css](https://github.com/Dev380/DNOME/blob/dist/DNOME.css), which is the latest compiled version.
 3. [Compile it yourself](#Compiling).
 
 > Some client mods require special metadata. The theme is in its simplest form.
@@ -118,9 +118,9 @@ and then compiling DNOME again.
 
 ## Contributing
 
-1. Read the [Code of Conduct](https://github.com/GeopJr/DNOME/blob/main/CODE_OF_CONDUCT.md)
+1. Read the [Code of Conduct](https://github.com/Dev380/DNOME/blob/main/CODE_OF_CONDUCT.md)
 2. Read the [Discord Theming Guide](./discord_theming_guide.md)
-3. Fork it ( https://github.com/GeopJr/DNOME/fork )
+3. Fork it ( https://github.com/Dev380/DNOME/fork )
 4. Create your feature branch (git checkout -b my-new-feature)
 5. Commit your changes (git commit -am 'feat: some feature')
 6. Push to the branch (git push origin my-new-feature)
