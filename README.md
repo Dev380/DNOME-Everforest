@@ -11,6 +11,8 @@
 
 ## Info
 
+Forked to use [everforest](https://github.com/sainnhe/everforest/)
+
 This is a Discord theme inspired by GNOME's default theme, Adwaita, in an attempt to make Discord look like it's part of the environment.
 
 The theme is written in Less and supports both light and dark mode. There's a few config options in [./src/DNOME.less](./src/DNOME.less). If you are looking to recolor it, you can do so by modifying the Less/CSS variables found in [./src/modules/variables/](./src/modules/variables/).
